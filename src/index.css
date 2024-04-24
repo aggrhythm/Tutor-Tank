@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  --blue: #4C86F9;
+  --green: #49A84C;
+  --yellow: #F6BC00;
+  --red: #E1432E;
+  color: black;
+  background-color: white;
+
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.42);
+  border: solid 1px black;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+
+}

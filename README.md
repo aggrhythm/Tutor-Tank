@@ -1,5 +1,5 @@
 # Tutor Tank
-An AI model to revolutionize education by personalizing performance of learners.
+The ADAM model to revolutionize education by personalizing performance of learners.
 
 ## About Tutor Tank
 Traditional educational approaches often employ a one-size-fits-all model, which may not effectively cater to the diverse learning needs and preferences of individual students. Tutor Tank addresses this by providing personalized learning experiences tailored to each learner's unique strengths, weaknesses, and learning styles.
@@ -33,7 +33,7 @@ Clone Repo: [Tutor-Tank](https://github.com/aggrhythm/Tutor-Tank.git)
 1. Run `npm i` to install dependencies.
 
 ### ML Model
-- [Colab Notebook](https://colab.research.google.com/drive/10hSr7wpMQNPmS76F60IiNK9UN8dNSILe?usp=sharing) or view the notebook saved as "Tutor Tank" from the repo.
+- [Colab Notebook](https://colab.research.google.com/drive/10hSr7wpMQNPmS76F60IiNK9UN8dNSILe?usp=sharing) or view the notebook saved as "Adam.ipynb" from the repo.
 
 Inside the notebook:
 1. Download all required packages and libraries.

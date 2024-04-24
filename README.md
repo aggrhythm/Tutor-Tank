@@ -27,23 +27,22 @@ Traditional educational approaches often employ a one-size-fits-all model, which
 
 ## Technical dependencies:
 
-Clone Repo- https://github.com/aggrhythm/Tutor-Tank.git
-For website code: run "npm i"
-For ML model- https://colab.research.google.com/drive/10hSr7wpMQNPmS76F60IiNK9UN8dNSILe?usp=sharing
-                     or 
-              View the colab notebook saved as Tutor Tank from the repo
+Clone Repo: [Tutor-Tank](https://github.com/aggrhythm/Tutor-Tank.git)
 
-Inside the notebook:- Download all the packages and library as it is:
+### Website Code
+1. Run `npm i` to install dependencies.
 
-For the given snippet:
-GOOGLE_API_KEY=userdata.get('GOOGLE_API_KEY')
-genai.configure(api_key=GOOGLE_API_KEY)
+### ML Model
+- [Colab Notebook](https://colab.research.google.com/drive/10hSr7wpMQNPmS76F60IiNK9UN8dNSILe?usp=sharing) or view the notebook saved as "Tutor Tank" from the repo.
 
-1.Enter your Gemini API Key in the secrets (2nd left key icon )
-2. Save with the name GOOGLE_API_KEY
-3. Enter the Key as the value and save it.
-
-Note:- Since the notebook is in view only mode, in order to run it the user should make a copy.
+Inside the notebook:
+1. Download all required packages and libraries.
+2. Set up Gemini API Key:
+    - Get your API Key from the secrets (2nd left key icon).
+    - Save it with the name `GOOGLE_API_KEY`.
+    - Enter the key as the value and save it.
+    
+Note: Since the notebook is in view-only mode, make a copy to run it.
 
 ## Live Project Link: 
 

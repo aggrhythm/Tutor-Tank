@@ -38,7 +38,7 @@ Clone Repo: [Tutor-Tank](https://github.com/aggrhythm/Tutor-Tank.git)
 Inside the notebook:
 1. Download all required packages and libraries.
 2. Set up Gemini API Key:
-    - Get your API Key from the secrets (2nd left key icon).
+    - Get your API Key to enter in the secrets (2nd left key icon).
     - Save it with the name `GOOGLE_API_KEY`.
     - Enter the key as the value and save it.
     
